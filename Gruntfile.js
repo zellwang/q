@@ -13,5 +13,6 @@ module.exports = function (grunt) {
     });
 
     // test comment
+    // test comment 2
     grunt.registerTask("default", ["uglify"]);
 };
